@@ -1,4 +1,4 @@
-const CACHE = 'vita-flow-offline-20261001-1';
+const CACHE = 'vita-flow-offline-20261002-1';
 const ROOT = new URL('./', self.location.href);
 const SHELL = new URL('index.html', ROOT).href;
 self.addEventListener('install', event => {
